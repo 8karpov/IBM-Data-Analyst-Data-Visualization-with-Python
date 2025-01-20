@@ -50,7 +50,7 @@ This Project was completed in 2 Parts:
 - Part 1: Create Visualizations using Matplotlib, Seaborn & Folium
 - Part 2: Create Dashboard using Plotly and Dash
 
-### **Part 1: Create visualizations using Matplotib, Seaborn & Folium**
+### **Part 1: Creating a visualizations using Matplotib, Seaborn & Folium**
 
 ### **Objective:**
 
@@ -78,7 +78,7 @@ TASK 1.8: Develop a pie chart to display the total Advertisement expenditure for
 
 TASK 1.9: Develop a lineplot to analyse the effect of the unemployment rate on vehicle type and sales during the Recession Period.
 
-### **Part 2: Create Dashboard using Plotly and Dash**
+### **Part 2: Building a Dashboard using Plotly and Dash**
 
 ### **Objective:**
 
